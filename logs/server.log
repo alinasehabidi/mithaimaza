@@ -1,0 +1,46 @@
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"MongoError: text index required for $text query\n    at queryCallback (C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\cursor.js:248:25)\n    at C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\connection\\pool.js:532:18\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:218:9)","level":"error"}
+{"message":"MongoError: text index required for $text query\n    at queryCallback (C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\cursor.js:248:25)\n    at C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\connection\\pool.js:532:18\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:218:9)","level":"error"}
+{"message":"MongoError: text index required for $text query\n    at queryCallback (C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\cursor.js:248:25)\n    at C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\connection\\pool.js:532:18\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:218:9)","level":"error"}
+{"message":"MongoError: text index required for $text query\n    at queryCallback (C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\cursor.js:248:25)\n    at C:\\Users\\Ali\\Desktop\\Mithaimazaa\\node_modules\\mongodb-core\\lib\\connection\\pool.js:532:18\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:218:9)","level":"error"}
+{"message":"Successfully connected to mongodb://127.0.0.1:27017/shop","level":"info"}
+{"message":"- Added page: /","level":"info"}
+{"message":"- Added page: /checkout","level":"info"}
+{"message":"- Added page: /checkout-success","level":"info"}
+{"message":"- Added page: /about","level":"info"}
+{"message":"- Added email template for Order Confirmation","level":"info"}
+{"message":"- Added shipping method","level":"info"}
+{"message":"- Added payment method","level":"info"}
+{"message":"- Created indexes for: pages","level":"info"}
+{"message":"- Created indexes for: productCategories","level":"info"}
+{"message":"- Created indexes for: products","level":"info"}
+{"message":"- Created indexes for: customers","level":"info"}
+{"message":"- Created indexes for: orders","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"level":"error","message":"Email send failed"}
+{"code":"ECONNECTION","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":465,"command":"CONN","level":"error","message":"Email send failed"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"Exporting theme failed","level":"error"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
